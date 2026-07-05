@@ -15,7 +15,7 @@ A structured, hands-on learning repo covering PySpark from core concepts to prod
 ## Branch Structure
 
 - `main` — curriculum overview and reference material
-- `solutions` — exercise solutions (one file per topic, never merged to main)
+- `solutions` — exercise solutions
 
 ## Progress Tracker
 
